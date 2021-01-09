@@ -1,0 +1,8 @@
+pipeline {
+  agent any 
+  stages {
+    stage("welcome") {
+      echo "Pipeline as a <code>"
+    }
+  }
+}
