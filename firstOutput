@@ -1,0 +1,16 @@
+Started by user Gokula Santhiya R
+Running in Durability level: MAX_SURVIVABILITY
+[Pipeline] Start of Pipeline
+[Pipeline] node
+Running on Jenkins in C:\Windows\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\welcome
+[Pipeline] {
+[Pipeline] stage
+[Pipeline] { (welcome)
+[Pipeline] echo
+welcome to pipeline as a <code>
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] }
+[Pipeline] // node
+[Pipeline] End of Pipeline
+Finished: SUCCESS
